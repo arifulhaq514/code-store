@@ -1,0 +1,9 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+crash.log
+.terraform/
+*.ppk
+
+# Local .terraform directory
+.terraform.lock.hcl
